@@ -1,0 +1,38 @@
+* {
+    font-family: 'Times New Roman', sans-serif;
+}
+
+.recipe {
+    text-decoration: none;
+    color: lightskyblue;
+}
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 span {
+    background-color: lightcoral;
+    color: white;
+}
+
+h3 {
+    text-align: left;
+}
+
+h3 span {
+    background-color: limegreen;
+    color: black;
+}
+
+.main {
+    text-decoration: none;
+    color: black;
+}
+
+.button .main {
+    background-color: blueviolet;
+    color: white;
+}
